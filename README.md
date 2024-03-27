@@ -1,6 +1,6 @@
 # BrightPath Consulting - SuperLife Health Incentive Program
 
-_“Our bodies are our gardens – our wills are our gardeners.” – William Shakespeare_
+_“Our bodies are our gardens, our wills are our gardeners.” – William Shakespeare_
 
 <p align="center">
   <img src="Resources/logo_team.png" height="100" />
