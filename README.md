@@ -1,24 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # Actuarial Theory and Practice A @ UNSW
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+# BrightPath Consulting - SuperLife Saving Lives Health Incentive Program
 
----
+_“Our bodies are our gardens – our wills are our gardeners.” – William Shakespeare_
 
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
+<p align="center">
+  <img src="Resources/logo_team.png" height="100" />
+  <img src="Resources/logo_unsw.png" height="100" />
+</p>
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
+## Overview
 
-This is written in markdown language. 
->
-* Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
+In the modern age of Lumaria, health is increasingly recognised as the ultimate wealth. BrightPath Consulting, in collaboration with SuperLife Insurance, introduces a cutting-edge health incentive program designed to encourage healthy behaviours among policyholders, thereby reducing mortality rates, boosting life insurance sales, and enhancing market competitiveness.
 
-#### Follow the [guide doc](doc1.pdf) to submit your work. 
+This GitHub repository houses all project materials for the SuperLife Insurance Incentive Program, including data analyses, R coding scripts, modelling methodologies, and comprehensive documentation on pricing strategies and sensitivity testing analysis. We aim to provide a transparent, detailed overview of our approach to creating a sustainable, beneficial program for SuperLife and its customers.
 
-When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
----
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
 
-More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
