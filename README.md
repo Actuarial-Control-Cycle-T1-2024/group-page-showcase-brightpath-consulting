@@ -1,4 +1,6 @@
-# SuperLife Insurance Incentive Program
+# BrightPath Consulting - SuperLife Health Incentive Program
+
+_“Our bodies are our gardens – our wills are our gardeners.” – William Shakespeare_
 
 <p align="center">
   <img src="Resources/logo_team.png" height="100" />
@@ -68,3 +70,5 @@ Identified risks such as climate change, inflation, and pandemics are addressed 
 The SuperLife Health Incentive Program is poised to meet its objectives, improving policyholder mortality while adding value to SuperLife's offerings. Ongoing monitoring and adjustments based on the Actuarial Control Cycle will ensure its continued success.
 
 For a detailed understanding, please refer to the entire project report included in this repository.
+
+![](Resources/Actuarial.gif)
