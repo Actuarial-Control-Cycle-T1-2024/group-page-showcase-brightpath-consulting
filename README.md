@@ -16,4 +16,4 @@ In the modern age of Lumaria, health is increasingly recognised as the ultimate 
 This GitHub repository houses all project materials for the SuperLife Insurance Incentive Program, including data analyses, R coding scripts, modelling methodologies, and comprehensive documentation on pricing strategies and sensitivity testing analysis. We aim to provide a transparent, detailed overview of our approach to creating a sustainable, beneficial program for SuperLife and its customers.
 
 
-![](Actuarial.gif)
+![](Resources/Actuarial.gif)
