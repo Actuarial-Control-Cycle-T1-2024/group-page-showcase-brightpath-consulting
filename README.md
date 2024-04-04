@@ -7,6 +7,20 @@ _“Our bodies are our gardens, our wills are our gardeners.” – William Shak
   <img src="Resources/logo_unsw.png" height="100" />
 </p>
 
+## Members: Lei Yu, Xiaochuan Lu, Yangzihan Zhou, Zhaojie Zhu and Fong Sern Looi
+
+## Table of Contents
+- [Overview](#overview)
+- [Repository Structure](#repository-structure)
+- [Executive Summary](#executive-summary)
+- [Program Design](#program-design)
+- [Pricing and Modelling](#pricing-and-modelling)
+- [Risk and Risk Mitigation](#risk-and-risk-mitigation)
+- [Data and Data Limitations](#data-and-data-limitations)
+- [Conclusion](#conclusion)
+- [Appendices](#appendices)
+- [References](#references)
+
 ## Overview
 
 In the modern age of Lumaria, health is increasingly recognized as the ultimate wealth. BrightPath Consulting, in collaboration with SuperLife Insurance, introduces a cutting-edge health incentive program designed to encourage healthy behaviours among policyholders, thereby reducing mortality rates, boosting life insurance sales, and enhancing market competitiveness.
@@ -47,15 +61,13 @@ This GitHub repository houses all project materials for the SuperLife Insurance 
    └─ R Coding
 ```
 
-## Project Report
-
-### Executive Summary
+## Executive Summary
 
 In Lumaria, the modern age has progressively transformed societal lifestyles and perspectives, firmly establishing the belief that health is the ultimate health within the community. With this principle in consideration and leveraging available data, BrightPath Consulting has designed a health incentive program bundled with SuperLife’s longer-term life insurance offerings. The core objectives of the programs are to incentivise healthy behaviours through participation in the program, decrease anticipated mortality rates, improve life insurance sales, enhance product marketability and competitiveness, and contribute economic value to SuperLife.
  
 This report highlights the design and unique features of the program aimed at enhancing health incentives among the policyholders. Additionally, it delves into appropriate modelling approaches and meticulously considers necessary assumptions to capture pivotal factors such as inflation and interest rates, mortality rates, and lapse rates, that could significantly impact the pricing of the program. By taking these considerations into account, the cost of the program is then determined using unique formulae developed by BrightPath Consulting. Following this, analysis, including sensitivity analysis and risk analysis, will be conducted to examine and evaluate the performance of the program designed. 
 
-### Program Design
+## Program Design
 
 This program aims to tackle the main objectives by implementing two interventions tailored to non-smoking and smoking policyholders in Lumaria (refer to *Appendix A* for more details on the invention selection approach).
 
@@ -68,7 +80,7 @@ Late detection of potential health issues or diseases has generally increased th
 ***Smoking Cessation Programs***  
 Smoking, as one of the leading causes of mortality, should be considered to achieve the main objectives of the program. This is evident from the mortality analysis conducted, which highlights smoking as the predominant factor influencing mortality rates in Lumaria (refer to *Appendix D* for further details). Furthermore, the latest available estimate from the World Health Organization (2023), as of November 2023, suggests that tobacco claims the lives of over 7 million smokers worldwide annually. Therefore, smoking cessation programs are implemented to directly address smoking policyholders by offering resources and ample support, with the goal of reducing smoking frequency or ideally facilitating smoking cessation, and ultimately, reduce the mortality rates. The list of available resources and support for smoking policyholders is provided in *Appendix B*. By introducing this intervention, smoking policyholders are provided with access to all available resources and support aimed at assisting them in overcoming nicotine addiction, which harms their health and increases their risk of mortality.
 
-### Pricing and Modelling
+## Pricing and Modelling
 
 ***Methodologies***  
 The methodologies involved to model and forecast specific factors that can significantly impact the performance of the program are stated in *Table 1* below.
@@ -130,7 +142,7 @@ First, the implementation of the program may potentially lead to lower lapse rat
 
 Second, the technological factor can be fundamental to the program in terms of performance. Since the emergence of modern technology, many policyholders have shifted their preference to purchasing insurance products online (refer to *Appendix H* for more details). This shift can significantly impact product pricing by potentially reducing expenses, particularly high agent commission fees. Nowadays, opting for online application can often be perceived as a simpler and cheaper option compared to purchasing through agents or telemarketers. Therefore, considering this factor may contribute to enhancing the performance of the program.
 
-### Risk and Risk Mitigation
+## Risk and Risk Mitigation
 
 ***Risk Identification and Assessment***  
 The potential risks significant to the program have been identified in *Table 4* below, along with clarification detailing their impact on the program. These identified risks are then assessed and ranked based on their estimated likelihood and severity, as shown in *Figure 5*.
@@ -147,18 +159,18 @@ The significance of potential risks considered in *Table 4* can be addressed by 
 *Table 5: Risk Mitigation Strategies implemented under the health incentive program.*
 <img src="Resources/Table 5.png">
 
-### Data and Data Limitations
+## Data and Data Limitations
 
 The data sources and limitations in *Table 6* are utilised to conduct research and analysis on the health incentive program.
 
 *Table 6: Data sources and data limitations for the health incentive program.*
 <img src="Resources/Table 6.png">
 
-### Conclusion
+## Conclusion
 
 The implementation of the proposed health incentive program is projected to fulfill all the primary objectives. The program demonstrates promising results that improve mortality of policyholder, while bringing value to SuperLife in terms of competitiveness, marketability, and economic value. This is evident when examining the capability and reliability of the program across a range of unfavorable scenarios. However, the fundamentals of Actuarial Control Cycle must always be practiced. Therefore, the performance of the program has to be consistently monitored after implementation, necessitating amendments to improve its performance and effectiveness in achieving the primary objectives.
 
-### Appendices
+## Appendices
 
 
 ***Appendix A: Evaluating interventions data***
@@ -300,7 +312,7 @@ Based on the *Figure H.1*, some potential findings are listed below.
 •	An emergence of online distribution channels can be observed in the year 2008.
 •	The number of buyers has been affected within the early 2020s decade. This may be due to the impact of Covid-19.
 
-### References
+## References
 
 Aishwarya, S 2023, Build High Performance Time Series Models using Auto ARIMA in Python and R, Analytics Vidhya, accessed 27 February 2024,
 <https://www.analyticsvidhya.com/blog/2018/08/auto-arima-time-series-modeling-python-r/#:~:text=the%20validation%20set-,What%20is%20Auto%20ARIMA%3F,moving%20average%20(MA)%20terms.>
