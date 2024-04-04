@@ -1,4 +1,4 @@
-![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-brightpath-consulting/assets/125911550/f5da6508-d592-4f7f-b26d-7e7477466651)# BrightPath Consulting - SuperLife Health Incentive Program
+# BrightPath Consulting - SuperLife Health Incentive Program
 
 _“Our bodies are our gardens, our wills are our gardeners.” – William Shakespeare_
 
